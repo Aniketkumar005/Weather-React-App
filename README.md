@@ -72,12 +72,12 @@ npm start
      • Wind speed and humidity
 
 4. The background dynamically changes based on the weather conditions (e.g., sunny background for clear skies).
-## License
+## License 📜
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). 
 
 
-## Acknowledgements
+## Acknowledgements 🙌
 
  - [OpenWeatherMap API:](https://openweathermap.org/api) For providing real-time weather data.
  

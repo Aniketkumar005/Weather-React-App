@@ -71,7 +71,7 @@ function App() {
       backgroundSize: "cover",
       backgroundPosition: "center",
       backgroundRepeat: "no-repeat",
-      height: "100vh",
+      height: "100%",
       width: "100vw",
     };
 

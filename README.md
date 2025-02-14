@@ -15,12 +15,11 @@ A modern weather forecasting application built using React.js and Tailwind CSS. 
 
 • 📊 Detailed Weather Information: Displays key data like temperature, humidity, wind speed, and weather conditions.
 
+## Tech Stack 🛠️
 
-# Tech Stack 🛠️
-
-  • Frontend: React.js, Tailwind CSS
-  • API: OpenWeatherMap API
-  • Tools: Git, VSCode
+- **Frontend:** React.js, Tailwind CSS
+- **API:** OpenWeatherMap API
+- **Tools:** Git, VSCode
 
 ## Live Demo 🌐 
 Check out the live version of the project:

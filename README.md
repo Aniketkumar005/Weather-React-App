@@ -18,9 +18,9 @@ A modern weather forecasting application built using React.js and Tailwind CSS. 
 
 # Tech Stack 🛠️
 
-• Frontend: React.js, Tailwind CSS
-• API: OpenWeatherMap API
-• Tools: Git, VSCode
+  • Frontend: React.js, Tailwind CSS
+  • API: OpenWeatherMap API
+  • Tools: Git, VSCode
 
 ## Live Demo 🌐 
 Check out the live version of the project:

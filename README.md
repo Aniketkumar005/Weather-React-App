@@ -64,10 +64,10 @@ npm start
 
 3. The retrieved data is displayed, including:
 
-     • Current temperature
-     • Minimum and maximum temperatures
-     • Weather description (e.g., Clear, Rain, Clouds)
-     • Wind speed and humidity
+    - • Current temperature
+    - • Minimum and maximum temperatures
+    - • Weather description (e.g., Clear, Rain, Clouds)
+    - • Wind speed and humidity
 
 4. The background dynamically changes based on the weather conditions (e.g., sunny background for clear skies).
 ## License 📜

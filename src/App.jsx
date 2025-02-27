@@ -71,8 +71,8 @@ function App() {
       backgroundSize: "cover",
       backgroundPosition: "center",
       backgroundRepeat: "no-repeat",
-      height: "100%",
-      width: "100vw",
+      minHeight: "100vh",
+      minWidth: "100vw",
     };
 
     const threshold = units === "metric" ? 15 : 70;

@@ -138,7 +138,7 @@ function App() {
     >
     
       <div
-        className={` ${formatBackground()}`}
+        className={`mx-auto max-w-screen-lg py-10 px-32 bg-gradient-to-br shadow-2xl shadow-gray-700 ${formatBackground()}`}
         style={{ opacity: 0.8 }}
       >
         <TopButtons setQuery={setQuery} />

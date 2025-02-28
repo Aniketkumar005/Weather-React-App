@@ -133,7 +133,7 @@ function App() {
   return (
   
     <div
-      className="grid place-items-center h-screen"
+      
       style={ground()} // Dynamically applies background only for non-mobile devices
     >
     

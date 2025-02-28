@@ -133,12 +133,12 @@ function App() {
   return (
   
     <div
-      
+      className="grid place-items-center h-screen"
       style={ground()} // Dynamically applies background only for non-mobile devices
     >
     
       <div
-        className={`mx-auto max-w-screen-lg py-10 px-32 bg-gradient-to-br shadow-2xl shadow-gray-700 ${formatBackground()}`}
+        className={` ${formatBackground()}`}
         style={{ opacity: 0.8 }}
       >
         <TopButtons setQuery={setQuery} />
